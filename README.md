@@ -5,8 +5,6 @@ Hi, I'm Eric Gong, an undergraduate at Harvard studying Computer Science and Sta
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ericgong2005&show_icons=true&locale=en&layout=compact" alt="ericgong2005" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ericgong2005&show_icons=true&locale=en" alt="ericgong2005" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ericgong2005&" alt="ericgong2005" /></p>
 
 [![](https://visitcount.itsvg.in/api?id=@ericgong2005&icon=0&color=6)](https://visitcount.itsvg.in)
