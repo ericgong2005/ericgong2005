@@ -1,5 +1,7 @@
 # Welcome
-Hi, I'm Eric Gong, an undergraduate at Harvard studying Computer Science and Statistics.
+Hi, I'm Eric Gong, an undergraduate at Harvard studying Computer Science and Statistics. 
+
+Check out my personal website [here](https://ericgong2005.github.io/)!
 
 # GitHub Stats:
 
